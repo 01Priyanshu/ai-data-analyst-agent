@@ -2,7 +2,7 @@
 
 > **An AI-powered data analyst that answers questions about your datasets using natural language.**
 > Built with Google Gemini API • Python • Flask
-  
+   
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://python.org)
 [![Gemini](https://img.shields.io/badge/Google%20Gemini-API-4285F4?logo=google&logoColor=white)](https://ai.google.dev)
 [![Flask](https://img.shields.io/badge/Flask-3.0+-000000?logo=flask)](https://flask.palletsprojects.com)
